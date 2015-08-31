@@ -63,7 +63,7 @@
         "qunit-cli": "^0.1.4",
         "spacejam": "latest",
         "coveralls": "^2.11.2",
-        "nyc": "^2.1.4"
+        "nyc": "^3.1.0"
     },
     "ender": "./ender.js",
     "dojoBuild": "package.js",
